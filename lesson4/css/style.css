@@ -1,0 +1,61 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;700&display=swap');
+
+@import url("reset.css");
+
+span {
+    font-family: "Roboto", 'Times New Roman', serif;
+    font-size: 18px;
+    font-weight: 700;
+    color: rgba(0, 128, 0, 0.911);
+    text-shadow: 2px 2px 1px;
+}
+
+.hero-title {
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    font-family: "Roboto", 'Times New Roman', serif;
+    font-size: 32px;
+    font-weight: 700;
+    color: rgba(139, 0, 0, 0.89);
+}
+
+
+h3 {
+    font-family: "Poppins", 'Times New Roman', serif;
+    font-size: 24px;
+    font-weight: 700;
+    color: rgba(11, 11, 184, 0.877);
+}
+
+.hero-life {
+    color: black;
+    text-decoration: line-through;
+    cursor: pointer;
+}
+
+a {
+    text-decoration: underline;
+    font-family: "Poppins", 'Times New Roman', sans-serif;
+    font-size: 16px;
+    font-weight: 700;
+    color: rgb(132, 245, 11);
+}
+
+.hero {
+    color: rgb(194, 14, 14);
+}
+
+.hero-info {
+    text-indent: 10px;
+    letter-spacing: 2px;
+    color: rgb(109, 48, 5);
+}
+
+.hero-carreer {
+    text-transform: capitalize;
+    word-spacing: 4px;
+    line-height: 2;
+    color: rgb(231, 12, 129);
+}
