@@ -1,0 +1,50 @@
+
+@import url("reset.css");
+
+
+.main-page {
+    max-width: 1240px;
+    margin: 0 auto;
+}
+
+.main-page__article {
+    max-width: 816px;
+    margin: 0 auto;
+}
+
+.pictures {
+    font-size: 0;
+}
+
+.picture-left {
+    margin-right: 30px;
+}
+
+.last-p {
+    margin: 0;
+}
+
+h2 {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 160%;
+    color: #212529;
+    margin-bottom: 40px;
+}
+
+p {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 179%;
+    color: #6C757D;
+    margin-bottom: 20px;   
+}
+
+img {
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
